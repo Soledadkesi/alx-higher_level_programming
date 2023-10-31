@@ -1,3 +1,3 @@
 #!/usr/bin/python3
 for i in range(0, 99):
-    print(f"Decimal: {i}, Hexadecimal: {i:x}")
+    rint("{:d} = 0x{:01x}".format(i, i))
