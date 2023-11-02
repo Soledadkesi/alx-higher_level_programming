@@ -1,12 +1,9 @@
 #!/usr/bin/python3
 
-def add(a, b):
+if __name__ == "__main__":
 
-    a =  1
+    a = 1
     b = 2
 
     result = a + b
-
     print(f'{a} + {b} = {result}')
-
-add(1, 2)
