@@ -108,4 +108,4 @@ USAGE
 
     >>> text_indentation(a)
     Traceback (most recent call last):
-    NameError: name 'a' is not defined
+    NameError: name 'a' is not defined.
